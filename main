@@ -1,0 +1,9 @@
+-- Mixed TheRealXORA Script
+
+-- Tpwalk V4 [ BETA ]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox-Scripts/main/Tpwalk%20V4%20%5B%20BETA%20%5D.lua", true))()
+
+-- Rainbow Sun Aimlock [ Works on 90% of dahood games ]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox-Scripts/main/Rainbow%20Sun%20Aimlock.lua", true))()
+
+-- Tweaked By @TheRealCROZA
